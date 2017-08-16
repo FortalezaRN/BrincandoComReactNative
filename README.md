@@ -1,1 +1,1 @@
-Primeiro app criado no curso de reac-native pela Udemy 
+Primeiro app criado no curso de react-native pela Udemy 
