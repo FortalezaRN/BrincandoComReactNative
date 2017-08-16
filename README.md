@@ -1,0 +1,1 @@
+Primeiro app criado no curso de reac-native pela Udemy 
